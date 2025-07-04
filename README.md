@@ -2,7 +2,7 @@
 
 A standalone, hardware-based sampler and digital synthesizer built around the RP2040 microcontroller. Designed for real-time musical performance and DIY audio exploration. Developed in MicroPython, with integrated analog effects and a full sequencer UI.
 
-![PAT Synth Front View](media/photos/front.jpg)
+![PAT Synth Front View](media/photos/PROTOTYPE.jpeg)
 
 # Features
 
@@ -40,12 +40,12 @@ A standalone, hardware-based sampler and digital synthesizer built around the RP
 
 # Demo
 
-[Click here to watch the live demo](media/demo-video.mp4)
+[Click here to watch the live demo](media/videos/SYNTH-CTRL-1.mp4)
 
 # Work in Progress
 
-- Sequencing of SYNTH notes, using NOTE and BEAT values
-- Integration of SYNTH note values into MIDI out signal
+- SYNTH melody sequencing, by step-based assignment of both rhythmic and melodic values
+- Communication of SYNTH sequence values (beat & note) via MIDI-OUT signal
 - Analog FX builds : DISTORTION, REVERB, DELAY
 
 ---
