@@ -40,7 +40,17 @@ A standalone, hardware-based sampler and digital synthesizer built around the RP
 
 # Demo
 
-[Click here to watch the live demo](media/videos/SYNTH-CTRL-1.mp4)
+SYNC W/ KORG VOLCA
+
+[![SYNC : KORG VOLCA](https://img.youtube.com/vi/XOAL12_DOX0/0.jpg)](https://youtu.be/XOAL12_DOX0)
+
+SYNTH CONTROL 1
+
+[![SYNTH CONTROL 1](https://img.youtube.com/vi/shXTFsdpJ9k/0.jpg)](https://www.youtube.com/shorts/shXTFsdpJ9k)
+
+SYNTH CONTROL 2
+
+[![SYNTH CONTORL 2](https://img.youtube.com/vi/4oDAa_RGoyw/0.jpg)](https://www.youtube.com/shorts/4oDAa_RGoyw)
 
 # Work in Progress
 
