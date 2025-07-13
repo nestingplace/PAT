@@ -54,4 +54,4 @@ A standalone, hardware-based sampler and digital synthesizer built around the RP
 
 Ken Hill – Embedded Engineer , [somuchfunwithwords@gmail.com](mailto:somuchfunwithwords@gmail.com)
 
-[View my portfolio](https://kenhill.dev) | [LinkedIn](https://www.linkedin.com/in/ken-hill-5a03b9225)
+[View my portfolio](https://drive.google.com/drive/folders/13Q4Rg4acVu6Zbi14zaWPo625oAb1vngg?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/ken-hill-5a03b9225)
