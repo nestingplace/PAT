@@ -1,5 +1,9 @@
 # PAT — Portable Audio Tool (Sampler/Sequencer/Synth)
 
+<p align="center">
+  <img src="media/photos/CASE%20MOCK-UP.JPG" alt="Case Mock-Up" width="500" height="500">
+</p>
+
 A standalone, hardware-based sampler and digital synthesizer built around the RP2040 microcontroller. Designed for real-time musical performance and DIY audio exploration. Developed in MicroPython, with integrated analog effects and a full sequencer UI.
 
 ![PAT Breadboard](media/photos/PROTOTYPE.jpeg)
